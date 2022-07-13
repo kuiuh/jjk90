@@ -1,4 +1,4 @@
-﻿# Xray快速部署到Heroku/Okteto
+# Xray快速部署到Heroku/Okteto
 
 Vless & Vmess: 
 
